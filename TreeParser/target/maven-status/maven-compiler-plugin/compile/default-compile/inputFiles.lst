@@ -1,0 +1,7 @@
+/Users/lostsoul/vitalsport/vitalsport2.0/TreeParser/src/main/java/com/maiakov/treebuilder/exception/FileParserException.java
+/Users/lostsoul/vitalsport/vitalsport2.0/TreeParser/src/main/java/com/maiakov/treebuilder/exception/EmptyFileException.java
+/Users/lostsoul/vitalsport/vitalsport2.0/TreeParser/src/main/java/com/maiakov/treebuilder/exception/TreeBuilderException.java
+/Users/lostsoul/vitalsport/vitalsport2.0/TreeParser/src/main/java/com/maiakov/treebuilder/model/Tree.java
+/Users/lostsoul/vitalsport/vitalsport2.0/TreeParser/src/main/java/com/maiakov/treebuilder/parser/FileParser.java
+/Users/lostsoul/vitalsport/vitalsport2.0/TreeParser/src/main/java/com/maiakov/treebuilder/parser/TreeBuilder.java
+/Users/lostsoul/vitalsport/vitalsport2.0/TreeParser/src/main/java/com/maiakov/treebuilder/exception/InvalidLabelException.java

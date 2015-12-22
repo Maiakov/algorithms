@@ -1,0 +1,4 @@
+com/maiakov/treebuilder/model/Tree.class
+com/maiakov/treebuilder/TreeBuilder.class
+com/maiakov/treebuilder/parser/FileParser.class
+com/maiakov/treebuilder/exception/TreeBuilderException.class

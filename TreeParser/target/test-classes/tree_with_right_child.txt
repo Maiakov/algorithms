@@ -1,0 +1,4 @@
+Fox,#,The
+Quick,#,Fox
+The,#,Dog
+A,#,Quick

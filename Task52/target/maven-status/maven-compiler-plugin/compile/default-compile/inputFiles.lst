@@ -1,0 +1,13 @@
+/Users/lostsoul/Downloads/Task52/src/main/java/com/maiakov/lexicalanalyzer/ast/actionsexpression/AdditionExpressionNode.java
+/Users/lostsoul/Downloads/Task52/src/main/java/com/maiakov/lexicalanalyzer/parser/Token.java
+/Users/lostsoul/Downloads/Task52/src/main/java/com/maiakov/lexicalanalyzer/ast/exception/ParserException.java
+/Users/lostsoul/Downloads/Task52/src/main/java/com/maiakov/lexicalanalyzer/ast/actionsexpression/MultiplicationExpressionNode.java
+/Users/lostsoul/Downloads/Task52/src/main/java/com/maiakov/lexicalanalyzer/ast/ExpressionNode.java
+/Users/lostsoul/Downloads/Task52/src/main/java/com/maiakov/lexicalanalyzer/LexicalAnalyzer.java
+/Users/lostsoul/Downloads/Task52/src/main/java/com/maiakov/lexicalanalyzer/ast/Term.java
+/Users/lostsoul/Downloads/Task52/src/main/java/com/maiakov/lexicalanalyzer/ast/SequenceExpressionNode.java
+/Users/lostsoul/Downloads/Task52/src/main/java/com/maiakov/lexicalanalyzer/ast/ConstantExpressionNode.java
+/Users/lostsoul/Downloads/Task52/src/main/java/com/maiakov/lexicalanalyzer/ast/exception/EvaluationException.java
+/Users/lostsoul/Downloads/Task52/src/main/java/com/maiakov/lexicalanalyzer/ast/VariableExpressionNode.java
+/Users/lostsoul/Downloads/Task52/src/main/java/com/maiakov/lexicalanalyzer/parser/InputParser.java
+/Users/lostsoul/Downloads/Task52/src/main/java/com/maiakov/lexicalanalyzer/parser/Tokenizer.java

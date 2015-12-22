@@ -1,0 +1,5 @@
+Fox,The,Lazy
+Quick,Fox,Jumps
+One,Dog,#
+Brown,#,Over
+A,Quick,Brown
