@@ -1,0 +1,3 @@
+The main idea is to keep all nodes into map. 
+The key is lable of node and value - our node. 
+Before create new node - check if node with such lable exists. 
