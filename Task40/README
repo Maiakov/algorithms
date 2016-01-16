@@ -1,0 +1,10 @@
+Write a routine to draw a circle (x ** 2 + y ** 2 = r ** 2) without making use of any floating point computations at all.
+
+Solution : use Bresenham's algorithm
+
+Calculate delta before choosing next dot. 
+
+Start delta = 3 - 2 * radius;
+Horithontal delta = oldDelta + 4 * x + 6; 
+Vertical delta = oldDelta + 4 * (x - y) + 10;
+ 
