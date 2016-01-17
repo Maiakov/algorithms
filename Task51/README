@@ -1,0 +1,4 @@
+Given two strings S1 and S2. Delete from S2 all those characters which occur in S1 also and finally
+create a clean S2 with the relevant characters deleted.
+1) Put chars from s1 into set
+2) Run through s2 and check every character into set 
