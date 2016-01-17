@@ -1,0 +1,20 @@
+Reverse a linked list.
+
+Done with  two different approaches : recursive and iterative
+
+Iterative :
+1)Get first three nodes. 
+2)Set head.next  = null
+3)Set second node.next = head
+4)Run cycle with similar actions while current node != null
+
+Recursive:
+1)Get first two nodes. 
+2)Set head.next  = null
+3)Call swap function with two parameters : node, nextNode
+4)Run in recursion 
+            Node next = nextNode.getNext();
+            nextNode.setNext(node);
+            nextNode = swap(nextNode, next);
+
+
