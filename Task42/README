@@ -1,0 +1,4 @@
+Give a one-line expression to test whether a number is a power of 2 [No loops allowed - it's a
+simple test.
+Very simple task based on binary representation of input number
+0 == (value - 1 & value);
