@@ -1,0 +1,5 @@
+Write a function to find the depth of a binary tree.
+
+Get length of left sub-tree 
+Get length of right sub-tree
+Compare and get max 
