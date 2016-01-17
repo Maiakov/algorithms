@@ -1,0 +1,6 @@
+43. Given an array of characters which form a sentence of words, give an efficient algorithm to reverse
+the order of the words (not characters) in it.
+
+Solution:
+
+Revert whole the string then revert every word in this string
