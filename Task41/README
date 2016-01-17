@@ -1,0 +1,7 @@
+41. Given only putchar (no sprintf, itoa, etc.) write a routine putlong that prints out an unsigned long
+in decimal.
+
+Idea - is to use recusion and char ASCI code.
+On every step we dividing input number by 10. 
+Once we reach the bottom print residue + DIGITS_START_INDEX
+Then print inputNumber % 10 + DIGITS_START_INDEX
