@@ -1,0 +1,23 @@
+An array of integers of size n. Generate a random permutation of the array, given a function
+rand_n() that returns an integer between 1 and n, both inclusive, with equal probability. What is the 
+expected time of your algorithm?
+
+Idea to implement next formula - X_{n+1} = (a X_n + b)\, \textrm{mod}\, m
+
+I used constant from Java random;
+NOTE - multiplier should be very big. It affects generated range without cycling. 
+
+
+ private static final long multiplier = 0x5DEECE66DL;
+    private static final long addend = 0xBL;
+    public static int getRandomNumber(int bound) {
+        long seed = (System.nanoTime() % bound);
+        for (int i = 0; i < bound; i++) {
+
+            seed = ((multiplier * seed + addend) % bound + 1);
+        }
+        if (seed == 0) {
+            System.out.println("a");
+        }
+        return (int) seed;
+    }
