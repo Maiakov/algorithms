@@ -1,0 +1,9 @@
+Sort an array of size n containing integers between 1 and K, given a temporary scratch integer
+array of size K.
+
+Solution:
+1) Call countNumbersOccurrences. Use every element as index-1
+2) Traverse by countNumbersOccurrences array and create inner cycle 
+            for (int j = 0; j < numbersOccurrences[i] && index < bound; j++) {
+                result[index++] = i + 1;
+            }
