@@ -1,0 +1,6 @@
+Write a small lexical analyzer - interviewer gave tokens. Expressions like "a*b" etc.
+
+Solution : main idea here is to build AST
+
+For this I used L1-L2 gramar
+
