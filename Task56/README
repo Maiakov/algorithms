@@ -1,0 +1,6 @@
+Write, efficient code for extracting unique elements from a sorted list of array. e.g. (1, 1, 3, 3, 3, 5, 5, 5, 9, 9, 9, 9) -> (1, 3, 5, 9).
+Solution:
+1) Build 3 methods isFirestNodeUnique, isNodeUnique, isLastNodeUnique
+2) Run findNextUniqueNode
+3) Run in cycle findNextUniqueNode which will delegate call to one of isFirestNodeUnique, isNodeUnique, isLastNodeUnique methods
+ 
