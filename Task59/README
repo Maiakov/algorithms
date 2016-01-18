@@ -1,0 +1,4 @@
+An array of integers. The sum of the array is known not to overflow an integer. Compute the sum.
+What if we know that integers are in 2's complement form?
+
+The sum of 1 and 2nd array will be diffenret
