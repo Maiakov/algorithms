@@ -1,0 +1,10 @@
+Write a routine that prints out a 2-D array in spiral order.
+
+Solution: 
+Cerate 4 steps:
+print from LEFT TO RIGHT
+print from TOP TO BOTTOM
+print from RIGHT TO LEFT
+print from BOTTOM to TOP
+
+Run cycle and call every of these steps while !  row > ySize || column > xSize;
